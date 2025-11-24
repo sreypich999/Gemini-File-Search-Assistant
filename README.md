@@ -74,7 +74,7 @@ The new **File Search Tool** gives you a complete **RAG engine** without needing
 ## 🚀 Features
 
 - 100% notebook-based  
-- Upload **PDF /docx**
+- Upload **PDF /docx/.pptx**
 - Automatic File Search Store creation  
 - Automatic ingestion + indexing  
 - Chat with your document  
