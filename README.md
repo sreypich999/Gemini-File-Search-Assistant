@@ -57,7 +57,7 @@ The new **File Search Tool** gives you a complete **RAG engine** without needing
 - Grounding  
 - Auto-citations  
 
-This lets you build a production-quality RAG system fully inside one notebook.
+
 
 ---
 
