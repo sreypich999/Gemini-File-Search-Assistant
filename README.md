@@ -10,8 +10,10 @@ Upload a file → Ask questions → Get **grounded, cited answers** powered by G
 
 ## 🔗 Notebook
 
-👉 **Open the Notebook (Gemini File Search.ipynb)**  
-https://colab.research.google.com/drive/1yy9B81Fi-x_0Cp9cNI-gYVtxRGJYkwOE?usp=sharing
+## 🚀 Open the Notebook
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yy9B81Fi-x_0Cp9cNI-gYVtxRGJYkwOE?usp=sharing)
+
 
 This notebook contains:
 - API setup  
