@@ -67,7 +67,7 @@ The new **File Search Tool** gives you a complete **RAG engine** without needing
 ![Screenshot 1](https://github.com/sreypich999/Gemini-File-Search-Assistant/blob/main/image_2025-11-24_22-57-48.png)
 
 ### 💬 Chat With Your Document
-![Screenshot 2](https://github.com/sreypich999/Gemini-File-Search-Assistant/blob/main/image_2025-11-24_23-00-43.png)
+![Screenshot 2](https://github.com/sreypich999/Gemini-File-Search-Assistant/blob/main/image_2025-11-25_00-05-21.png)
 
 ---
 
